@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">loginpage</string>
+
+    <string name="hello">HeyThere</string>
+    <string name="create_account">Create An Account</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="firstname">First Name</string>
+
+    <string name="lasttname">Last Name</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password\n</string>
+    <string name="passwordshow">Show Password</string>
+    <string name="passwordhide">Hide Password</string>
+    <string name="policy">By signing in you accept our Privacy Policy and Terms and Conditions\n</string>
+    <string name="termsandconditions">BY continuing you accept our PrivacyPolicy and Terms of Use\n</string>
+    <string name="termsandconditionsheader">Terms of Use</string>
+    <string name="register">REGISTER</string>
+    <string name="other">OR</string>
+</resources>
